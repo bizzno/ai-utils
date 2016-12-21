@@ -10,3 +10,4 @@ def clean_text(text):
     return re.sub(r'[^a-zA-Z0-9\s]', '', text)
 Update 7 on 2016-12-21 02:35:37
 Update 9 on 2016-12-21 06:31:16
+Update 11 on 2016-12-21 12:50:17
