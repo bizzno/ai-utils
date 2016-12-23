@@ -12,3 +12,4 @@ class TextClassifier:
         """Make prediction on text"""
         return 0
 Update 20 on 2016-12-23 15:38:11
+Update 21 on 2016-12-23 05:31:41
