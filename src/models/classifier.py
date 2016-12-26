@@ -14,3 +14,4 @@ class TextClassifier:
 Update 20 on 2016-12-23 15:38:11
 Update 21 on 2016-12-23 05:31:41
 Update 22 on 2016-12-23 03:36:08
+Update 25 on 2016-12-26 22:14:34
